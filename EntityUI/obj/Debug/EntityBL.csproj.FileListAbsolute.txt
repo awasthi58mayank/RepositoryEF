@@ -1,0 +1,14 @@
+F:\C# Course\RevisedEF\EntityUI\bin\Debug\EntityUI.dll
+F:\C# Course\RevisedEF\EntityUI\bin\Debug\EntityUI.pdb
+F:\C# Course\RevisedEF\EntityUI\bin\Debug\EntityDL.dll
+F:\C# Course\RevisedEF\EntityUI\bin\Debug\EntityDTO.dll
+F:\C# Course\RevisedEF\EntityUI\bin\Debug\EntityFramework.dll
+F:\C# Course\RevisedEF\EntityUI\bin\Debug\EntityDL.pdb
+F:\C# Course\RevisedEF\EntityUI\bin\Debug\EntityDL.dll.config
+F:\C# Course\RevisedEF\EntityUI\bin\Debug\EntityDTO.pdb
+F:\C# Course\RevisedEF\EntityUI\bin\Debug\EntityFramework.xml
+F:\C# Course\RevisedEF\EntityUI\obj\Debug\EntityBL.csproj.AssemblyReference.cache
+F:\C# Course\RevisedEF\EntityUI\obj\Debug\EntityBL.csproj.CoreCompileInputs.cache
+F:\C# Course\RevisedEF\EntityUI\obj\Debug\EntityBL.csproj.CopyComplete
+F:\C# Course\RevisedEF\EntityUI\obj\Debug\EntityUI.dll
+F:\C# Course\RevisedEF\EntityUI\obj\Debug\EntityUI.pdb

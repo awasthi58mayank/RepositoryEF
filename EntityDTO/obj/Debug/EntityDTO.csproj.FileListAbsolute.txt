@@ -1,0 +1,6 @@
+F:\C# Course\RevisedEF\EntityDTO\bin\Debug\EntityDTO.dll
+F:\C# Course\RevisedEF\EntityDTO\bin\Debug\EntityDTO.pdb
+F:\C# Course\RevisedEF\EntityDTO\obj\Debug\EntityDTO.csproj.AssemblyReference.cache
+F:\C# Course\RevisedEF\EntityDTO\obj\Debug\EntityDTO.csproj.CoreCompileInputs.cache
+F:\C# Course\RevisedEF\EntityDTO\obj\Debug\EntityDTO.dll
+F:\C# Course\RevisedEF\EntityDTO\obj\Debug\EntityDTO.pdb

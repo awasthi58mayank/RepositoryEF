@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="10e672f2e8314c44992cb57f4d35e3d7" Name="Diagram1">
+        <EntityTypeShape EntityType="ProjectModel.Batch" Width="1.5" PointX="0.75" PointY="7.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProjectModel.Cours" Width="1.5" PointX="3" PointY="6" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProjectModel.Faculty" Width="1.5" PointX="5.25" PointY="7" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProjectModel.Model" Width="1.5" PointX="5.25" PointY="10" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProjectModel.Participant" Width="1.5" PointX="3" PointY="15.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProjectModel.sysdiagram" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProjectModel.Grader" Width="1.5" PointX="5.25" PointY="13.375" IsExpanded="true" />
+        <AssociationConnector Association="ProjectModel.FK__Grader__BatchID__681373AD" ManuallyRouted="false" />
+        <AssociationConnector Association="ProjectModel.FK__Grader__CourseID__690797E6" ManuallyRouted="false" />
+        <AssociationConnector Association="ProjectModel.FK__Grader__Particip__69FBBC1F" ManuallyRouted="false" />
+        <AssociationConnector Association="ProjectModel.Batch_FacultyMapping" ManuallyRouted="false" />
+        <AssociationConnector Association="ProjectModel.Batch_ModelMapping" ManuallyRouted="false" />
+        <AssociationConnector Association="ProjectModel.Course_BatchMapping" ManuallyRouted="false" />
+        <AssociationConnector Association="ProjectModel.Course_FacultyMapping" ManuallyRouted="false" />
+        <AssociationConnector Association="ProjectModel.Course_ModelMapping" ManuallyRouted="false" />
+        <AssociationConnector Association="ProjectModel.Participant_BatchMapping" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

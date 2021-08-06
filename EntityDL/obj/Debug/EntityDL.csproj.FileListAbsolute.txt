@@ -1,0 +1,14 @@
+F:\C# Course\RevisedEF\EntityDL\bin\Debug\EntityDL.dll.config
+F:\C# Course\RevisedEF\EntityDL\bin\Debug\EntityDL.dll
+F:\C# Course\RevisedEF\EntityDL\bin\Debug\EntityDL.pdb
+F:\C# Course\RevisedEF\EntityDL\bin\Debug\EntityDTO.dll
+F:\C# Course\RevisedEF\EntityDL\bin\Debug\EntityFramework.dll
+F:\C# Course\RevisedEF\EntityDL\bin\Debug\EntityFramework.SqlServer.dll
+F:\C# Course\RevisedEF\EntityDL\bin\Debug\EntityDTO.pdb
+F:\C# Course\RevisedEF\EntityDL\bin\Debug\EntityFramework.xml
+F:\C# Course\RevisedEF\EntityDL\bin\Debug\EntityFramework.SqlServer.xml
+F:\C# Course\RevisedEF\EntityDL\obj\Debug\EntityDL.csproj.AssemblyReference.cache
+F:\C# Course\RevisedEF\EntityDL\obj\Debug\EntityDL.csproj.CoreCompileInputs.cache
+F:\C# Course\RevisedEF\EntityDL\obj\Debug\EntityDL.csproj.CopyComplete
+F:\C# Course\RevisedEF\EntityDL\obj\Debug\EntityDL.dll
+F:\C# Course\RevisedEF\EntityDL\obj\Debug\EntityDL.pdb
